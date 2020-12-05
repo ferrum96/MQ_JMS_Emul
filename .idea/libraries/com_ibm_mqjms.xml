@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.ibm.mqjms">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/IBM/MQ_1/java/lib/com.ibm.mqjms.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
